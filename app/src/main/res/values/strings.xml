@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PRIMADI_1202154151_MODUL5</string>
+    <string name="title_activity_todolist">todolist</string>
+    <string name="title_activity_to_do_list">ToDoList</string>
+</resources>
